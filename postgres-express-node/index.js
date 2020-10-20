@@ -1,3 +1,5 @@
+// Test 
+
 const { sequelize, User, MedicalTest } = require("./models");
 const {
   fieldEncryption,
