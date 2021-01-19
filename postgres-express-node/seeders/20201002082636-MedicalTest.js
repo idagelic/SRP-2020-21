@@ -22,6 +22,7 @@ module.exports = {
         UserId: user.id,
         createdAt: new Date(),
         updatedAt: new Date(),
+        timestamp: new Date()
       };
     });
 
